@@ -1,0 +1,30 @@
+body {
+    background: #abe8d8;
+    margin-top: 100px;
+    text-align: center;
+}
+
+h1 {
+    color: #141a23;
+    font-size: 6.5em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+table {
+    color: darkslategrey;
+    font-size: 2em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+p {
+    font-size: 4.25em;
+    color: #181814;
+}
+
+button {
+    color: darkslategrey;
+    font-size: 3em;
+    background: #abe8d8;
+}
